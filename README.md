@@ -22,6 +22,6 @@ This will return a large amount of data giving information about the relationshi
 ***For Use***
 
 - First Clone the Repository.
-- Download required libraries. [Flask and Requests just thats.]
+- Download required libraries. [***pip3 install requirements.txt***]
 - Go to the src/ folder and run wsgi.py file.
 - And ta da! you gonna see localhost url working on 5000th port and you can use your API now.
